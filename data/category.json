@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"EARTHMOVING",
+        "slug":"earthmoving",
+        "image":"images/EARTHMOVING.png"
+    },
+    {
+        "id":2,
+        "name":"MEWPS",
+        "slug":"mewps",
+        "image":"images/MEWP.png"
+    },
+    {
+        "id":3,
+        "name":"MOBILE CRANE",
+        "slug":"mobile-crane",
+        "image":"images/MOBILE-CRANE.png"
+    },
+    {
+        "id":4,
+        "name":"CONCRETE",
+        "slug":"concrete",
+        "image":"images/CONCRETE.png"
+    },
+    {
+        "id":5,
+        "name":"FORKLIFT",
+        "slug":"forklift",
+        "image":"images/FORKLIFT.png"
+    },
+    {
+        "id":6,
+        "name":"FOUNDATION",
+        "slug":"foundation",
+        "image":"images/FOUNDATION.png"
+    },
+    {
+        "id":7,
+        "name":"MINING",
+        "slug":"mining",
+        "image":"images/MINING.png"
+    }
+]

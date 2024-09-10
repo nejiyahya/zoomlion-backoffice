@@ -1,0 +1,144 @@
+[
+    {
+        "id":1,
+        "category_id":1,
+        "code":"ZE135GF",
+        "name":"CRAWLER HYDRAULIC EXCAVATOR-FOREST EDITION",
+        "image":"images/product/ZE135GF.png"
+    },
+    {
+        "id":2,
+        "category_id":1,
+        "code":"ZE550G",
+        "name":"CRAWLER HYDRAULIC EXCAVATOR",
+        "image":"images/product/ZE550G.png"
+    },
+    {
+        "id":3,
+        "category_id":1,
+        "code":"ZE1250G",
+        "name":"CRAWLER HYDRAULIC EXCAVATOR",
+        "image":"images/product/ZE1250G.png"
+    },
+    {
+        "id":4,
+        "category_id":1,
+        "code":"ZD340G",
+        "name":"HORSEPOWER CRAWLER DOZER",
+        "image":"images/product/ZD340G.png"
+    },
+    {
+        "id":5,
+        "category_id":1,
+        "code":"ZE750G",
+        "name":"CRAWLER HYDRAULIC EXCAVATOR",
+        "image":"images/product/ZE750G.png"
+    },
+
+
+    {
+        "id":6,
+        "category_id":2,
+        "code":"ZA14JE",
+        "name":"Articulating Boom Lift",
+        "image":"images/product/ZA14JE.png"
+    },
+    {
+        "id":7,
+        "category_id":2,
+        "code":"ZA24J",
+        "name":"Articulating Boom Lift",
+        "image":"images/product/ZA24J.png"
+    },
+    {
+        "id":8,
+        "category_id":2,
+        "code":"ZS1212HD",
+        "name":"Scissor Lifts",
+        "image":"images/product/ZS1212HD.png"
+    },
+    {
+        "id":9,
+        "category_id":2,
+        "code":"ZT26J",
+        "name":"Telescopic Boom Lift",
+        "image":"images/product/ZT26J.png"
+    },
+    {
+        "id":10,
+        "category_id":2,
+        "code":"ZS1414HD",
+        "name":"Scissor Lifts",
+        "image":"images/product/ZS1414HD.png"
+    },
+    {
+        "id":11,
+        "category_id":3,
+        "code":"ZTC800V532",
+        "name":"TRUCK CRANE",
+        "image":"images/product/ZTC800V532.png"
+    },
+    {
+        "id":12,
+        "category_id":4,
+        "code":"8JBH-R UD",
+        "name":"8m3 Truck Mixer-UD",
+        "image":"images/product/8JBH-R_UD.png"
+    },
+    {
+        "id":13,
+        "category_id":5,
+        "code":"DB20R",
+        "name":"Electrical Standard Stacker",
+        "image":"images/product/DB20R.png"
+    },
+    {
+        "id":14,
+        "category_id":5,
+        "code":"FB30Z",
+        "name":"Electrical Counterbalanced Forklift",
+        "image":"images/product/FB30Z.png"
+    },
+    {
+        "id":15,
+        "category_id":5,
+        "code":"FD35Z",
+        "name":"Internal Combustion Counterbalanced Forklift",
+        "image":"images/product/FD35Z.png"
+    },
+    {
+        "id":16,
+        "category_id":5,
+        "code":"FD70Z",
+        "name":"Internal Combustion Counterbalanced Forklift",
+        "image":"images/product/FD70Z.png"
+    },
+    {
+        "id":17,
+        "category_id":6,
+        "code":"ZR140",
+        "name":"ROTARY DRILLING RIG",
+        "image":"images/product/ZR140.png"
+    },
+    {
+        "id":18,
+        "category_id":7,
+        "code":"ZT115A",
+        "name":"OFF-HIGHWAY WIDE BODY TRUCK",
+        "image":"images/product/ZT115A.png"
+    },
+    {
+        "id":19,
+        "category_id":7,
+        "code":"ZT96A",
+        "name":"OFF-HIGHWAY WIDE BODY TRUCK",
+        "image":"images/product/ZT96A.png"
+    },
+    {
+        "id":20,
+        "category_id":7,
+        "code":"ZT160HEV",
+        "name":"OFF-HIGHWAY WIDE BODY TRUCK",
+        "image":"images/product/ZT160HEV.png"
+    }
+]

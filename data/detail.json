@@ -1,0 +1,170 @@
+[
+    {
+        "product_id":1,
+        "image":"images/product/ZE135GF.png",
+        "info":[
+            {
+                "key":"1",
+                "name":"RELIABLE AND DURABLE",
+                "description":"Biodiesel special fuel-water separator can be adapted to diesel in Southeast Asia. The service life of the filter element is longer than the traditional filter. The use of biodiesel filter paper, high pollution capacity of multi-layer filter material and deep layer coalesces filter material, can effectively filter the water and impurities in the fuel, to achieve effective pro-tection of the engine fuel nozzle."
+            },
+            {
+                "key":"2",
+                "name":"EFFICIENT AND ENERGY SAVING",
+                "description":"<ul><li>Cummins four-cylinder QSF3.8 engine, applies the proprietary electronic control technology of ZOOMLION, optimized engine performance, and the whole machine has better fuel econ-omy.</li><li>Increased power by 20% more powerful, more stable output, more powerful and faster work.</li></ul>"
+            },
+            {
+                "key":"3",
+                "name":"TECHNICAL DATA",
+                "tabs":[
+                    {
+                        "key":"BASIC_TECHNICAL_DATA",
+                        "name":"BASIC TECHNICAL DATA",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Operating Weight</td><td>kg</td><td>16500</td></tr><tr><td>Bucket Capacity</td><td>m²</td><td>1865</td></tr><tr><td>Travel Speed (high/low)</td><td>km/h</td><td>4.5 / 2.6</td></tr><tr><td>Swing Speed</td><td>rpm</td><td>12</td></tr><tr><td>Maximum Drawbar Pull</td><td>kN</td><td>156</td></tr><tr><td>Digging Force of Bucket</td><td>kN</td><td>89</td></tr><tr><td>Digging Force of Arm</td><td>kN</td><td>61</td></tr></table>"
+                    },
+                    {
+                        "key":"ENGINE",
+                        "name":"ENGINE",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Brand</td><td>/</td><td>Cummins</td></tr><tr><td>Model</td><td>/</td><td>QSF3.8t3TC115</td></tr><tr><td>Rated Power</td><td>rpm</td><td>86kW @ 2200 rpm</td></tr><tr><td>Displacement</td><td>L</td><td>3.8</td></tr></table>"
+                    },
+                    {
+                        "key":"OVERALL_PARAMETERS",
+                        "name":"OVERALL PARAMETERS",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Overall Length</td><td>mm</td><td>7380</td></tr><tr><td>Overall Length (with Single-Shank Ripper)</td><td>mm</td><td></td></tr><tr><td>Overall Width</td><td>mm</td><td>3000</td></tr><tr><td>Overall Height</td><td>mm</td><td>2835</td></tr><tr><td>Overall Height (to Cab Top)</td><td>mm</td><td></td></tr><tr><td>Boom Length</td><td>mm</td><td>4260</td></tr><tr><td>Arm Length</td><td>mm</td><td>2360</td></tr><tr><td>Tall Swing Radius</td><td>mm</td><td>1635</td></tr><tr><td>Track Gauge</td><td>mm</td><td>2040</td></tr><tr><td>Crawler Base</td><td>mm</td><td>2980</td></tr></table>"
+                    },
+                    {
+                        "key":"Working_Range",
+                        "name":"Working Range",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Maximum Digging Height</td><td>mm</td><td>8120</td></tr><tr><td>Maximum Digging Reach</td><td>mm</td><td>7850</td></tr><tr><td>Maximum Digging Depth</td><td>mm</td><td>7660</td></tr><tr><td>Minimum Front Swing Radius</td><td>mm</td><td>4620</td></tr></table>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "product_id":2,
+        "image":"images/product/ZE550G.png",
+        "info":[
+            {
+                "key":"1",
+                "name":"RELIABLE AND DURABLE",
+                "description":"<ul><li>The boom and arm are designed with large cross section. The overall cross section of the boom and arm is increased by 7% and 9% respectively.</li><li>The integral 25mm thick lower cover plate of the boom provides higher strength.</li></ul>"
+            },
+            {
+                "key":"2",
+                "name":"EFFICIENT AND ENERGY SAVING",
+                "description":"<ul><li>Using a 6-cylinder Cummins engine with a displacement of 11.8L, and high-pressure common rail technology the new electronic control system optimizes engine performance, and the whole machine has better fuel economy.</li><li>It provides multiple types of bucket to choose from, adapts to different working conditions, and improves work efficiency. The bucket adopts high strength wear resistant steel plates on a large area,reducing the wear and impact of materials on the bucket bottom,which makes the bucket more durable. ZE550G Standard 3.2m3 rock bucket optional 2.85m3 rock bucket, 3.6m3 reinforced bucket, with larger capacity and higher loading efficiency.</li></ul>"
+            },
+            {
+                "key":"3",
+                "name":"TECHNICAL DATA",
+                "tabs":[
+                    {
+                        "key":"BASIC_TECHNICAL_DATA",
+                        "name":"BASIC TECHNICAL DATA",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Operating Weight</td><td>kg</td><td>53500</td></tr><tr><td>Bucket Capacity</td><td>m²</td><td>2.85-3.6</td></tr><tr><td>Travel Speed (high/low)</td><td>km/h</td><td>5.2 / 3.1</td></tr><tr><td>Swing Speed</td><td>rpm</td><td>8.4</td></tr><tr><td>Maximum Drawbar Pull</td><td>kN</td><td>443</td></tr><tr><td>Digging Force of Bucket</td><td>kN</td><td>329</td></tr><tr><td>Digging Force of Arm</td><td>kN</td><td>271</td></tr></table>"
+                    },
+                    {
+                        "key":"ENGINE",
+                        "name":"ENGINE",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Brand</td><td>/</td><td>Cummins</td></tr><tr><td>Model</td><td>/</td><td>X12S3A375</td></tr><tr><td>Rated Power</td><td>rpm</td><td>277kW @ 2100 rpm</td></tr><tr><td>Displacement</td><td>L</td><td>11.8</td></tr></table>"
+                    },
+                    {
+                        "key":"OVERALL_PARAMETERS",
+                        "name":"OVERALL PARAMETERS",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Overall Length</td><td>mm</td><td>11790</td></tr><tr><td>Overall Length (with Single-Shank Ripper)</td><td>mm</td><td></td></tr><tr><td>Overall Width</td><td>mm</td><td>3610</td></tr><tr><td>Overall Height</td><td>mm</td><td>3990</td></tr><tr><td>Overall Height (to Cab Top)</td><td>mm</td><td></td></tr><tr><td>Boom Length</td><td>mm</td><td>6500</td></tr><tr><td>Arm Length</td><td>mm</td><td>3000</td></tr><tr><td>Tall Swing Radius</td><td>mm</td><td>3887</td></tr><tr><td>Track Gauge</td><td>mm</td><td>2750</td></tr><tr><td>Crawler Base</td><td>mm</td><td>4400</td></tr></table>"
+                    },
+                    {
+                        "key":"Working_Range",
+                        "name":"Working Range",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Maximum Digging Height</td><td>mm</td><td>9686</td></tr><tr><td>Maximum Digging Reach</td><td>mm</td><td>10982</td></tr><tr><td>Maximum Digging Depth</td><td>mm</td><td>6945</td></tr><tr><td>Minimum Front Swing Radius</td><td>mm</td><td>4636</td></tr></table>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "product_id":3,
+        "image":"images/product/ZE1250G.png",
+        "info":[
+            {
+                "key":"1",
+                "name":"RELIABLE AND DURABLE",
+                "description":"<ul><li>The boom and arm adopt large section design, bringing greater stress bearing capacity.</li><li>With large torque and long service life travel reducer, it adapts to harsh traveling conditions.</li><li>Three-row roller swing bearing is dedicated for mining work, with large bearing capacity.</li><li>It is compatible with fully protected track guard and semi-protected track guard.</li></ul>"
+            },
+            {
+                "key":"2",
+                "name":"EFFICIENT AND ENERGY SAVING",
+                "description":"<ul><li>Using customized CUMMINS engine, 576kW output power, it has strong power.</li><li>Low emission and low noise, which can meet the Southeast Asian emission standards.</li><li>Sufficient torque reserve and stable output, low speed torque, faster action response, longer service life, more suitable for heavy load conditions.</li><li>Large pump low rotation speed strategy, to ensure that the engine runs in the economic fuel consumption zone, efficiency increased by 8%.</li></ul>"
+            },
+            {
+                "key":"3",
+                "name":"TECHNICAL DATA",
+                "tabs":[
+                    {
+                        "key":"BASIC_TECHNICAL_DATA",
+                        "name":"BASIC TECHNICAL DATA",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Operating Weight</td><td>kg</td><td>116000</td></tr><tr><td>Bucket Capacity</td><td>m²</td><td>7.1-10</td></tr><tr><td>Travel Speed (high/low)</td><td>km/h</td><td>3.6 / 2.5</td></tr><tr><td>Swing Speed</td><td>rpm</td><td>5.5</td></tr><tr><td>Maximum Drawbar Pull</td><td>kN</td><td>748</td></tr><tr><td>Digging Force of Bucket</td><td>kN</td><td>598</td></tr><tr><td>Digging Force of Arm</td><td>kN</td><td>472</td></tr></table>"
+                    },
+                    {
+                        "key":"ENGINE",
+                        "name":"ENGINE",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Brand</td><td>/</td><td>Cummins</td></tr><tr><td>Model</td><td>/</td><td>QSK23</td></tr><tr><td>Rated Power</td><td>rpm</td><td>576 kW @ 1800 rpm</td></tr><tr><td>Displacement</td><td>L</td><td>23.15</td></tr></table>"
+                    },
+                    {
+                        "key":"OVERALL_PARAMETERS",
+                        "name":"OVERALL PARAMETERS",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Overall Length</td><td>mm</td><td>14630</td></tr><tr><td>Overall Length (with Single-Shank Ripper)</td><td>mm</td><td></td></tr><tr><td>Overall Width</td><td>mm</td><td>5480</td></tr><tr><td>Overall Height</td><td>mm</td><td>6180</td></tr><tr><td>Overall Height (to Cab Top)</td><td>mm</td><td></td></tr><tr><td>Boom Length</td><td>mm</td><td>7550</td></tr><tr><td>Arm Length</td><td>mm</td><td>3400</td></tr><tr><td>Tall Swing Radius</td><td>mm</td><td>4860</td></tr><tr><td>Track Gauge</td><td>mm</td><td>3900</td></tr><tr><td>Crawler Base</td><td>mm</td><td>5090</td></tr></table>"
+                    },
+                    {
+                        "key":"Working_Range",
+                        "name":"Working Range",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Maximum Digging Height</td><td>mm</td><td>12510</td></tr><tr><td>Maximum Digging Reach</td><td>mm</td><td>13880</td></tr><tr><td>Maximum Digging Depth</td><td>mm</td><td>5380</td></tr><tr><td>Minimum Front Swing Radius</td><td>mm</td><td></td></tr></table>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "product_id":4,
+        "image":"images/product/ZE1250G.png",
+        "info":[
+            {
+                "key":"1",
+                "name":"Strong Power",
+                "description":"It is powered by a Cummins engine with a customized torque curve, with multi-stage filtra-tion of the air intake system, cleaner air intake, less pollution, environmental-friendly, high efficiency and energy saving; strong power, low fuel consumption and high reliability."
+            },
+            {
+                "key":"2",
+                "name":"Reliable & Durable",
+                "description":"<ul><li>It adopts a new type of horizontal spacer, effectively reducing the impact of jumping up and down, and the spacer swing amplitude is narrower, so it will move more properly with higher reliability.</li><li>Its standard straight-through pre-filter effectively separates dust, sand, pulverized coal and other impurities in the air, combining with the engine's multi-stage air filter to improve recent cleanliness and eliminate early engine wear.</li><li>The turbocharger, which improves and widens the high efficiency zone, increases the air intake pressure ratio, improves combustion, reduces fuel consumption rates, and can improve the engine's ability to adapt to altitude.</li></ul>"
+            },
+            {
+                "key":"3",
+                "name":"TECHNICAL DATA",
+                "tabs":[
+                    {
+                        "key":"BASIC_TECHNICAL_DATA",
+                        "name":"BASIC TECHNICAL DATA",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr><tr><td>Operating Weight</td><td>kg</td><td>35260</td></tr><tr><td>Bucket Capacity</td><td>m²</td><td></td></tr><tr><td>Travel Speed (high/low)</td><td>km/h</td><td></td></tr><tr><td>Swing Speed</td><td>rpm</td><td></td></tr><tr><td>Maximum Drawbar Pull</td><td>kN</td><td>&gt;337</td></tr><tr><td>Digging Force of Bucket</td><td>kN</td><td></td></tr><tr><td>Digging Force of Arm</td><td>kN</td><td></td></tr></table>"
+                    },
+                    {
+                        "key":"Undercarriage",
+                        "name":"Undercarriage",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr></table>"
+                    },
+                    {
+                        "key":"OVERALL_PARAMETERS",
+                        "name":"OVERALL PARAMETERS",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr></table>"
+                    },
+                    {
+                        "key":"Working_Range",
+                        "name":"Working Range",
+                        "description":"<table><tr><th>Items</th><th>Unit</th><th>Value</th></tr></table>"
+                    }
+                ]
+            }
+        ]
+    }
+]
